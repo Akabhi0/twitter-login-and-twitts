@@ -1,0 +1,16 @@
+h1 , form {
+	text-align: center;
+}
+
+.back{
+	background: #00aced;
+	padding: 0%;
+	margin:0%;
+	height: 16%;
+}
+
+#full{
+	float: center;
+	width: 20%;
+}
+
